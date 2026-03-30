@@ -1,4 +1,4 @@
-## ## Olá, sou eu Correaleite 👋
+## Olá, sou eu Correaleite 👋
 ### Bem vindo ao meu GitHub, me chamo Gabriel Correa Leite e atualmente estou no curso de engenharia de software da faculdade Fiap
 
 ## Sobre mim
