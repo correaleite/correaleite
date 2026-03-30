@@ -14,7 +14,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,tailwind" />
 </p>
 
 <hr>
