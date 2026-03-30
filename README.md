@@ -2,10 +2,10 @@
 ### Bem vindo ao meu GitHub, me chamo Gabriel Correa Leite e atualmente estou no curso de engenharia de software da faculdade Fiap
 
 ## Sobre mim
-• Aprendendo Python e Godot
-• Busco aprender o máximo na área de tecnologia
-• Treino basquete
-• Adoro jogos e gosto de ver animes
+• Aprendendo Python e Godot<br>
+• Busco aprender o máximo na área de tecnologia<br>
+• Treino basquete<br>
+• Adoro jogos e gosto de ver animes<br>
 • Fluente em inglês
 
 
